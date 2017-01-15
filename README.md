@@ -97,7 +97,7 @@ static void Main()
       Console.Read();
 }
 ```
-The result in Concole window shown in picture.
+The result in Console window shown in picture.
 ![result](https://github.com/narekye/Password_generator/blob/master/my.JPG)
-## Updated soon.
+## Updates soon.
 For more information [contact](https://github.com/narekye).
