@@ -102,3 +102,6 @@ The result in Console window shown in picture.
 ![result](https://github.com/narekye/Password_generator/blob/master/my.JPG)
 ## Updates soon.
 For more information [contact](https://github.com/narekye).
+___
+# Have a fun.
+![GIF](https://github.com/narekye/Password_generator/blob/master/giphy.gif)
