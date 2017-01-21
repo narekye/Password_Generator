@@ -104,4 +104,5 @@ The result in Console window shown in picture.
 For more information [contact](https://github.com/narekye).
 ___
 # Have a fun.
-![GIF](https://github.com/narekye/Password_generator/blob/master/giphy.gif)
+
+<img src="https://github.com/narekye/Password_generator/blob/master/giphy.gif" align="left" width="900px" height="500px" /> 
