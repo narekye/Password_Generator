@@ -1,5 +1,6 @@
-# C# 6.0 VS 2015 | SW version 1.0
-# Working with password generator class library.
+# C# 6.0 Visual Studio 2015 with .NET Framework 4.6 | SW version 1.0 <img src="https://github.com/narekye/Password_generator/blob/master/C%23pic.png" align="right" width="150px" height="150px" /> 
+
+# Working with `Password Generator` class library.
 ### You do not need to create a instance of `Password` class, because its imposible create instance of static class.
 ### Use for generate many random passwords, which can improve you to secure somewhat.
 ___
@@ -101,3 +102,7 @@ The result in Console window shown in picture.
 ![result](https://github.com/narekye/Password_generator/blob/master/my.JPG)
 ## Updates soon.
 For more information [contact](https://github.com/narekye).
+___
+# Have a fun.
+
+<img src="https://github.com/narekye/Password_generator/blob/master/giphy.gif" align="left" width="900px" height="500px" /> 
