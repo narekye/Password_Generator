@@ -48,5 +48,10 @@ namespace PasswordGenerator
             }
             return password; 
         }
+
+        public static string ToUpperPassword(string a)
+        {
+            return a.ToUpper();
+        }
     }
 }
