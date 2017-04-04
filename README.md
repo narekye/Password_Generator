@@ -1,5 +1,5 @@
 # C# 6.0 Visual Studio 2015 with .NET Framework 4.6 | SW version 1.0 <img src="https://github.com/narekye/Password_generator/blob/master/C%23pic.png" align="right" width="150px" height="150px" /> 
-
+ 
 # Working with `Password Generator` class library. 
 ### You do not need to create a instance of `Password` class, because its imposible create instance of static class.
 ### Use for generate many random passwords, which can improve you to secure somewhat.
