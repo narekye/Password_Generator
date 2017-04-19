@@ -10,7 +10,7 @@ Created class library with name `PasswordGenerator`(you must add the `using Pass
 Method has 1 parameter which is the **length** of password.
 In snippet shown the `static class` with his members.
 ```C#
-using System;
+using System; 
 namespace PasswordGenerator
 {
     /// <summary>
